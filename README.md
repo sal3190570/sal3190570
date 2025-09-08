@@ -29,6 +29,5 @@
 <img align="left" alt="React Native" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1365px-Figma-logo.svg.png" />
 
-<!-- Clear floats for icon overflow issues -->
-<br clear="all"/>
+
 

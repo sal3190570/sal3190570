@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-awal/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.salmanawal.com/)
 
-## 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
 
 ## 🖥️ Frontend
 

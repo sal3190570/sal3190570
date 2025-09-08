@@ -2,7 +2,7 @@
 
 `Software Engineer`
 
-Hi! My name is Salman, and I am passionate about frontend development and building engaging user experiences. With a sharp eye for design and a passion for clean, efficient code, I specialise in creating seamless web applications and interactive interfaces. I thrive on making ideas a reality by combining creativity and technical expertise. Whether I'm creating responsive websites, optimising performance, or researching the latest frontend technologies, I'm committed to providing high-quality solutions that exceed expectations. Explore my repositories to view some of my projects, and please contact me if you want to collaborate or have any queries. Let us work together to create something extraordinary!
+👨🏽 Hello! My name is Salman, and I’m a full stack developer based in Canberra, Australia. I specialize in architecting high-impact web and mobile applications, blending robust backend engineering with standout frontend experiences. My work ranges from building scalable infrastructures and payment systems for Australian startups, to creating visually immersive UIs that drive user engagement and satisfaction. Driven by a passion for clean code and seamless design, I thrive on delivering technology that both performs and delights.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-awal/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.salmanawal.com/)
